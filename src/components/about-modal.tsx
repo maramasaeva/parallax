@@ -35,34 +35,32 @@ export default function AboutModal() {
 
             <div className="space-y-4 text-sm text-gray-600 leading-relaxed">
               <p>
-                parallax helps content creators find ideas faster and coordinate
-                so nobody makes the same video twice.
+                so basically parallax is a tool for creators who want to make content about
+                interesting stuff without accidentally making the exact same video as someone else.
               </p>
 
-              <p className="font-medium text-foreground">how it works:</p>
-
-              <ol className="space-y-3 list-none">
-                <li className="flex gap-3">
-                  <span className="text-accent font-medium shrink-0">1.</span>
-                  <span>someone submits a research paper, article, or any interesting text.</span>
-                </li>
-                <li className="flex gap-3">
-                  <span className="text-accent font-medium shrink-0">2.</span>
-                  <span>it gets distilled into a short summary, key points, and suggested creative angles.</span>
-                </li>
-                <li className="flex gap-3">
-                  <span className="text-accent font-medium shrink-0">3.</span>
-                  <span>you browse the angles, see what others have already claimed, and pick your own unique take.</span>
-                </li>
-                <li className="flex gap-3">
-                  <span className="text-accent font-medium shrink-0">4.</span>
-                  <span>make your content, link it back, and the whole group ends up covering one topic from many perspectives.</span>
-                </li>
-              </ol>
+              <p>
+                the feed pulls in research papers, news, and articles from all over the place
+                every day. ai breaks each one down into a quick summary, the key points,
+                and a bunch of creative angles you could take on it.
+              </p>
 
               <p>
-                that&apos;s it. no accounts, no algorithms. just a shared space
-                to turn research into content without stepping on each other&apos;s toes.
+                you scroll through, find something that sparks, and claim your angle. you can
+                see what angles other people already claimed so you know what&apos;s taken and
+                what&apos;s still open. one topic, many perspectives, no overlap.
+              </p>
+
+              <p>
+                if you make a profile it learns what you&apos;re into, what kind of content you
+                make, and who your audience is. then it can recommend topics and even suggest
+                a personalized angle that fits your style.
+              </p>
+
+              <p>
+                once you&apos;ve made your thing you link it back and now there&apos;s this whole
+                collection of creators covering the same topic from totally different directions.
+                that&apos;s the whole point. same source material, different minds, different output.
               </p>
             </div>
           </div>
